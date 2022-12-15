@@ -5,13 +5,13 @@
 # Program Menalmpilkan daftar Nilai Mahasiswa
 
 - code :
-- 
+
 ![img](Praktikum8.png)
 
 - Flowchart :
-- 
+ 
 ![img](flowchart.png)
 
-- 
+ 
 
 - Terima Kasih
